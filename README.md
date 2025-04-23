@@ -62,7 +62,7 @@ This project uses the following technologies:
 - **TensorFlow** / **Keras** (if deep learning models are applied)
 - **Flask/Django** (Optional, for web deployment)
 
-## Data Sources
+## [Data Sources](https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies)
 
 The dataset used for this project is sourced from [insert dataset source, e.g., Kaggle, IMDb, etc.]. It contains valuable information like:
 
