@@ -175,5 +175,5 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 For any questions or suggestions, feel free to reach out:
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [Jadav Srivani](mailto:jadavsrivani@gmail.com)
 - LinkedIn: [Srivani Jadav](https://www.linkedin.com/in/jadav-srivani-1854b1271/)
